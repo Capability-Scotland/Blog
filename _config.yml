@@ -1,5 +1,0 @@
-# Site settings
-name: Capability Scotlands Blog
-markdown: redcarpet
-pygments: true 
-baseurl: /blog
